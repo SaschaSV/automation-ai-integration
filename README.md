@@ -1,5 +1,3 @@
-> Erstveröffentlichung in Vorbereitung: Die installierbare Version erscheint nach Freigabe des getesteten Releases.
-
 # Automation AI – Home-Assistant-Integration
 
 In HACS → Benutzerdefinierte Repositories `https://github.com/SaschaSV/automation-ai-integration` als **Integration** hinzufügen, Automation AI herunterladen und Home Assistant neu starten. Danach die Integration unter Geräte & Dienste hinzufügen und mit der Automation-AI-App koppeln. Die Aufnahme in den voreingestellten Marketplace-Katalog erfolgt nicht automatisch.
