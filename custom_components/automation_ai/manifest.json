@@ -1,7 +1,7 @@
 {
   "domain": "automation_ai",
   "name": "Automation AI",
-  "version": "3.3.0",
+  "version": "3.4.0",
   "config_flow": true,
   "documentation": "https://github.com/SaschaSV/automation-ai-integration",
   "dependencies": [
